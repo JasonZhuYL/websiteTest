@@ -1,0 +1,56 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: addcss{jemdoc.css}
+= Yuliang Zhu
+
+~~~
+{}{img_left}{images/Yuliang.jpg}{Yuliang Zhu Photo}
+
+PhD Student @\n
+[https://alumni.media.mit.edu/~ayush/usf.html Computational Sensing and Imaging Lab]\n
+
+Office 805\n
+Communications & Signal Processing Group \n
+Department of Electrical and Electronic Engg. \n
+Imperial College London, London SW7-2AZ \n
+\n
+
+E-Mail: [mailto:yuliang.zhu19@imperial.ac.uk yuliang.zhu19@imperial.ac.uk]\n
+
+\n
+[https://www.researchgate.net/profile/Yuliang-Zhu-3 *ResearchGate*] | [https://www.linkedin.com/in/yuliang-zhu-9b3053189 *LinkedIn*]
+~~~
+
+== Bio and Research
+Yuliang is a PhD student at the Computational Sensing and Imaging Lab at Imperial College London, where his research focuses on hardware development for the [https://alumni.media.mit.edu/~ayush/usf.html Unlimited Sensing Framework].
+
+He completed both his undergraduate and master's degrees in Electrical and Information Engineering at Imperial College London, graduating with first-class honors in 2023. Yuliang was also awarded the prestigious Eric Laithwaite Prize, which recognizes his exceptional innovation in his master's project.
+
+
+== Publications
+- *Frequency Estimation via Sub-Nyquist Unlimited Sampling* \n
+Yuliang Zhu, Ruiming Guo, Peiyu Zhang and Ayush Bhandari \n
+IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP), (Apr. 2024).
+
+- *Unleashing Dynamic Range and Resolution in Unlimited Sensing Framework via Novel Hardware* \n
+Yuliang Zhu and Ayush Bhandari \n
+IEEE Sensors Conf. (Oct. 2024).
+
+== Technological Demos
+
+- *Extreme High Dynamic Range Unlimited Sensing*\n
+Ayush Bhandari and Yuliang Zhu\n
+IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP), (Apr. 2024).
+
+- *Sub-Nyquist Frequency Estimation Via MultiChannel Unlimited Sensing ADCS*\n
+Ayush Bhandari, Yuliang Zhu and Ruiming Guo\n
+IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP), (Apr. 2024).
+
+
+- *Multi-Channel, Variable-Threshold Unlimited Sensing Hardware and Applications*\n
+Ayush Bhandari and Yuliang Zhu\n
+IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP), (Jun. 2023).
+
+- *Multi-Channel, Variable-Threshold Unlimited Sensing* \n
+Yuliang Zhu\n
+International Symposium on Computational Sensing (Jun. 2023)
+
