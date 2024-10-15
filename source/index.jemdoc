@@ -27,15 +27,26 @@ He completed both his undergraduate and master's degrees in Electrical and Infor
 
 
 == Publications
-- *Frequency Estimation via Sub-Nyquist Unlimited Sampling* \n
-Yuliang Zhu, Ruiming Guo, Peiyu Zhang and Ayush Bhandari \n
-IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP), (Apr. 2024).
 
 - *Unleashing Dynamic Range and Resolution in Unlimited Sensing Framework via Novel Hardware* \n
-Yuliang Zhu and Ayush Bhandari \n
+Yuliang Zhu, and Ayush Bhandari \n
 IEEE Sensors Conf. (Oct. 2024).
 
+- *Sub-Nyquist USF Spectral Estimation: K Frequencies with 6K + 4 Modulo Samples* \n
+Ruiming Guo, Yuliang Zhu, and Ayush Bhandari \n
+IEEE Transactions on Signal Processing, (Sep. 2024).
+
+- *Frequency Estimation via Sub-Nyquist Unlimited Sampling* \n
+Yuliang Zhu, Ruiming Guo, Peiyu Zhang, and Ayush Bhandari \n
+IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP), (Apr. 2024).
+
+
 == Technological Demos
+
+- *Unlimited Sensing: A New Approach to Digital Acquisition*\n
+Ayush Bhandari and Yuliang Zhu\n
+IEEE Sensors Conf. (Oct. 2024).
+
 
 - *Extreme High Dynamic Range Unlimited Sensing*\n
 Ayush Bhandari and Yuliang Zhu\n
